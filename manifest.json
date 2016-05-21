@@ -1,6 +1,6 @@
 {
   "name": "Happy News",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Create happier comments on Hacker News",
   "homepage_url": "https://github.com/dustinspecker/happy-news",
   "manifest_version": 2,
