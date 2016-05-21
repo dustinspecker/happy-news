@@ -5,5 +5,15 @@
 
 > Create happier comments on [Hacker News](https://news.ycombinator.com/)
 
+## Example
+
+Take the following:
+
+![Not so happy comments](/assets/before.png)
+
+and make it look like:
+
+![Happy comments](/assets/after.png)
+
 ## LICENSE
 MIT © [Dustin Specker](https://github.com/dustinspecker)
