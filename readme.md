@@ -19,5 +19,11 @@ and make it look like:
 
 ![Happy comments](/assets/after.png)
 
+## Contributing
+
+To add more happy comments please add them alphabetically to [comments.js](comments.js).
+
+To add more happy usernames please add them alphabetically to [usernames.js](usernames.js).
+
 ## LICENSE
 MIT © [Dustin Specker](https://github.com/dustinspecker)
