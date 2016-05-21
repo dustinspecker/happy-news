@@ -9,14 +9,14 @@ window.happyComments =
   , 'Just unbelievable!'
   , 'Love it!'
   , 'Marvelous!'
-  , 'Nice!',
+  , 'Nice!'
   , 'Nice job!'
-  , 'Sharing on Facebook!',
-  , 'Sharing on Instagram!',
-  , 'Sharing on Snapchat!',
-  , 'Sharing on Reddit!',
-  , 'Sharing on Tumblr!',
-  , 'Sharing on Twitter!',
+  , 'Sharing on Facebook!'
+  , 'Sharing on Instagram!'
+  , 'Sharing on Snapchat!'
+  , 'Sharing on Reddit!'
+  , 'Sharing on Tumblr!'
+  , 'Sharing on Twitter!'
   , 'Take my money!'
   , 'The force is strong with this one!'
   , 'This is incredible!'
