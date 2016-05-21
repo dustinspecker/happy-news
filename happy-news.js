@@ -3,38 +3,14 @@
 const getRandomNumber = max =>
   Math.floor(Math.random() * max)
 
-const happyComments =
-  [ 'Awesome job! Keep it up!'
-  , 'Genius idea!'
-  , 'I love seeing people try stuff like this!'
-  , 'I love this!'
-  , 'I\'m showing this to all of my coworkers!'
-  , 'Take my money!'
-  , 'This is incredible!'
-  , 'Truly inspiring!'
-  , 'You rock!'
-  , 'Whoa!'
-  ]
-
-const happyUsernames =
-  [ 'Batman'
-  , 'HarryPotterFan'
-  , 'LovesEverything'
-  , 'ProudParent'
-  , 'Robin'
-  , 'Skywalker'
-  , 'Spiderman'
-  , 'YourFavoriteLanguageIsAwesome'
-  ]
-
 const getRandomItem = array =>
   array[getRandomNumber(array.length)]
 
 const getAHappyComment = () =>
-  getRandomItem(happyComments)
+  getRandomItem(window.happyComments)
 
 const getAHappyUsername = () =>
-  getRandomItem(happyUsernames)
+  getRandomItem(window.happyUsernames)
 
 document.addEventListener('DOMContentLoaded', () => {
   const comments = document.querySelectorAll('.comment-tree .comment span')

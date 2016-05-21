@@ -15,6 +15,8 @@
         "https://news.ycombinator.com/*"
       ],
       "js": [
+        "comments.js",
+        "usernames.js",
         "happy-news.js"
       ]
     }

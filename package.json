@@ -4,7 +4,7 @@
   "description": "Create happier comments on Hacker News",
   "main": "happy-news.js",
   "scripts": {
-    "test": "eslint happy-news.js"
+    "test": "eslint comments.js happy-news.js usernames.js"
   },
   "keywords": [
     "happy",
