@@ -1,0 +1,22 @@
+{
+  "name": "Happy News",
+  "version": "0.0.0",
+  "description": "Create happier comments on Hacker News",
+  "homepage_url": "https://github.com/dustinspecker/happy-news",
+  "manifest_version": 2,
+  "minimum_chrome_version": "50",
+  "permissions": [
+    "https://news.ycombinator.com/*"
+  ],
+  "content_scripts": [
+    {
+      "run_at": "document_start",
+      "matches": [
+        "https://news.ycombinator.com/*"
+      ],
+      "js": [
+        "happy-news.js"
+      ]
+    }
+  ]
+}

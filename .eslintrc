@@ -1,0 +1,9 @@
+{
+  extends: "dustinspecker/esnext",
+  env: {
+    browser: true
+  },
+  rules: {
+    'array-bracket-spacing': [2, 'always']
+  }
+}
