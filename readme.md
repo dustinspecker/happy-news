@@ -5,6 +5,10 @@
 
 > Create happier comments on [Hacker News](https://news.ycombinator.com/)
 
+## Install
+
+Install from the [Chrome Web Store](https://chrome.google.com/webstore/detail/happy-news/ndldkhjhhnkgnnbbgdmpoaopnikopbjj)
+
 ## Example
 
 Take the following:
