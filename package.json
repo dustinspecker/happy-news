@@ -6,12 +6,7 @@
   "scripts": {
     "test": "eslint comments.js happy-news.js usernames.js"
   },
-  "keywords": [
-    "happy",
-    "news",
-    "hacker",
-    "ycombinator"
-  ],
+  "keywords": [],
   "author": "Dustin Specker <DustinSpecker@DustinSpecker.com> (http://dustinspecker.com/)",
   "license": "MIT",
   "devDependencies": {
